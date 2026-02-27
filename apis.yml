@@ -1,0 +1,106 @@
+name: ReadSoft
+description: ReadSoft provides intelligent automation and business process management solutions for accounts payable and other document-intensive processes
+image: https://www.readsoft.com/logo.png
+created: '2024-01-15'
+modified: '2024-01-15'
+specificationVersion: '0.16'
+url: https://www.readsoft.com/apis.json
+tags:
+- Document Processing
+- OCR
+- Invoice Processing
+- Accounts Payable
+- Business Process Automation
+- Enterprise Software
+apis:
+- name: ReadSoft Invoice Processing API
+  description: API for automated invoice capture, data extraction, and validation
+  image: https://www.readsoft.com/images/invoice-api-logo.png
+  humanURL: https://www.readsoft.com/products/invoice-processing
+  baseURL: https://api.readsoft.com/v1
+  tags:
+  - Invoices
+  - OCR
+  - Data Extraction
+  - Validation
+  properties:
+  - type: Documentation
+    url: https://developer.readsoft.com/invoice-api/docs
+  - type: OpenAPI
+    url: https://api.readsoft.com/v1/openapi.json
+  - type: Authentication
+    url: https://developer.readsoft.com/authentication
+  - type: Rate Limits
+    url: https://developer.readsoft.com/rate-limits
+  contact:
+  - type: Support
+    url: https://www.readsoft.com/support
+  - type: Email
+    url: mailto:api-support@readsoft.com
+- name: ReadSoft Document Capture API
+  description: API for capturing and processing various business documents
+  image: https://www.readsoft.com/images/document-api-logo.png
+  humanURL: https://www.readsoft.com/products/document-capture
+  baseURL: https://api.readsoft.com/v1/documents
+  tags:
+  - Document Management
+  - OCR
+  - Capture
+  - Processing
+  properties:
+  - type: Documentation
+    url: https://developer.readsoft.com/document-api/docs
+  - type: OpenAPI
+    url: https://api.readsoft.com/v1/documents/openapi.json
+  - type: Postman Collection
+    url: https://www.postman.com/readsoft/document-capture
+  - type: SDK
+    url: https://github.com/readsoft/document-sdk
+  contact:
+  - type: Support
+    url: https://www.readsoft.com/support
+  - type: Email
+    url: mailto:api-support@readsoft.com
+- name: ReadSoft Workflow API
+  description: API for managing and automating document approval workflows
+  image: https://www.readsoft.com/images/workflow-api-logo.png
+  humanURL: https://www.readsoft.com/products/workflow
+  baseURL: https://api.readsoft.com/v1/workflow
+  tags:
+  - Workflow
+  - Automation
+  - Approvals
+  - Business Process
+  properties:
+  - type: Documentation
+    url: https://developer.readsoft.com/workflow-api/docs
+  - type: OpenAPI
+    url: https://api.readsoft.com/v1/workflow/openapi.json
+  - type: Webhooks
+    url: https://developer.readsoft.com/webhooks
+  contact:
+  - type: Support
+    url: https://www.readsoft.com/support
+common:
+- type: Portal
+  url: https://developer.readsoft.com
+- type: Getting Started
+  url: https://developer.readsoft.com/getting-started
+- type: Authentication
+  url: https://developer.readsoft.com/authentication
+- type: Status
+  url: https://status.readsoft.com
+- type: Terms of Service
+  url: https://www.readsoft.com/terms
+- type: Privacy Policy
+  url: https://www.readsoft.com/privacy
+- type: Contact
+  url: https://www.readsoft.com/contact
+- type: Blog
+  url: https://www.readsoft.com/blog
+- type: Change Log
+  url: https://developer.readsoft.com/changelog
+maintainers:
+- name: ReadSoft Developer Relations
+  email: devrel@readsoft.com
+  url: https://developer.readsoft.com
