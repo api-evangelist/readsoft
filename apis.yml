@@ -4,12 +4,12 @@ description: ReadSoft provides intelligent automation and business process manag
 type: Index
 url: https://raw.githubusercontent.com/api-evangelist/readsoft/refs/heads/main/apis.yml
 tags:
-  - Document Processing
-  - OCR
-  - Invoice Processing
   - Accounts Payable
   - Business Process Automation
+  - Document Processing
   - Enterprise Software
+  - Invoice Processing
+  - OCR
 created: '2024-01-15'
 modified: '2026-03-16'
 specificationVersion: '0.19'
