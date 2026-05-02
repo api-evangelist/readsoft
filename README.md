@@ -1,83 +1,32 @@
 # ReadSoft (readsoft)
-ReadSoft provides intelligent automation and business process management solutions for accounts payable and other document-intensive processes
+ReadSoft was a provider of intelligent automation and business process management solutions for accounts payable and other document-intensive processes. Acquired by Lexmark in 2014, the technology was rolled into Kofax and is now part of Tungsten Automation. ReadSoft no longer publishes a public developer-facing REST API; its capture and AP automation products are delivered as installed enterprise software with partner-only integration resources.
 
-**URL:** [Visit APIs.json URL](https://www.readsoft.com/apis.json)
+**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/readsoft/refs/heads/main/apis.yml)
+
+## Scope
+
+- **Type:** Index
 
 ## Tags:
 
- - Document Processing, OCR, Invoice Processing, Accounts Payable, Business Process Automation, Enterprise Software
+ - Accounts Payable, Business Process Automation, Document Processing, Enterprise Software, Invoice Processing, OCR, Capture
 
 ## Timestamps
 
-- **Created:** 2024-01-15 
-- **Modified:** 2024-01-15 
+- **Created:** 2024-01-15
+- **Modified:** 2026-04-28
 
 ## APIs
 
-### ReadSoft Invoice Processing API
-API for automated invoice capture, data extraction, and validation
-
-**Human URL:** [https://www.readsoft.com/products/invoice-processing](https://www.readsoft.com/products/invoice-processing)
-
-
-#### Tags:
-
- - Invoices, OCR, Data Extraction, Validation
-
-#### Properties
-
-- [Documentation](https://developer.readsoft.com/invoice-api/docs)
-- [OpenAPI](https://api.readsoft.com/v1/openapi.json)
-- [Authentication](https://developer.readsoft.com/authentication)
-- [Rate Limits](https://developer.readsoft.com/rate-limits)
-
-### ReadSoft Document Capture API
-API for capturing and processing various business documents
-
-**Human URL:** [https://www.readsoft.com/products/document-capture](https://www.readsoft.com/products/document-capture)
-
-
-#### Tags:
-
- - Document Management, OCR, Capture, Processing
-
-#### Properties
-
-- [Documentation](https://developer.readsoft.com/document-api/docs)
-- [OpenAPI](https://api.readsoft.com/v1/documents/openapi.json)
-- [Postman Collection](https://www.postman.com/readsoft/document-capture)
-- [SDK](https://github.com/readsoft/document-sdk)
-
-### ReadSoft Workflow API
-API for managing and automating document approval workflows
-
-**Human URL:** [https://www.readsoft.com/products/workflow](https://www.readsoft.com/products/workflow)
-
-
-#### Tags:
-
- - Workflow, Automation, Approvals, Business Process
-
-#### Properties
-
-- [Documentation](https://developer.readsoft.com/workflow-api/docs)
-- [OpenAPI](https://api.readsoft.com/v1/workflow/openapi.json)
-- [Webhooks](https://developer.readsoft.com/webhooks)
+No public REST APIs are currently documented for this provider. The ReadSoft brand and products were absorbed into Kofax and are now offered by Tungsten Automation as installed enterprise software.
 
 ## Common Properties
 
-- [Portal](https://developer.readsoft.com)
-- [Getting Started](https://developer.readsoft.com/getting-started)
-- [Authentication](https://developer.readsoft.com/authentication)
-- [Status](https://status.readsoft.com)
-- [Terms of Service](https://www.readsoft.com/terms)
-- [Privacy Policy](https://www.readsoft.com/privacy)
-- [Contact](https://www.readsoft.com/contact)
-- [Blog](https://www.readsoft.com/blog)
-- [Change Log](https://developer.readsoft.com/changelog)
+- [Website](https://www.tungstenautomation.com/)
+- [About](https://www.tungstenautomation.com/about)
 
 ## Maintainers
 
-**FN:** ReadSoft Developer Relations
+**FN:** Kin Lane
 
-**Email:** devrel@readsoft.com
+**Email:** kin@apievangelist.com
