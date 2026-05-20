@@ -25,6 +25,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/readsoft
   - type: Website
     url: https://www.tungstenautomation.com/
   - type: About
