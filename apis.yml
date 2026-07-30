@@ -11,7 +11,18 @@ description: >-
 type: Index
 url: >-
   https://raw.githubusercontent.com/api-evangelist/readsoft/refs/heads/main/apis.yml
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/readsoft.png
 tags:
   - Accounts Payable
   - Business Process Automation
